@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-tanja.noviaaiforbusiness.workers.dev/sitemap.xml
